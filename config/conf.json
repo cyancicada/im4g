@@ -1,0 +1,7 @@
+{
+  "Name": "im-server",
+  "ListenAddress": "127.0.0.1:7272",
+  "SingleUserLinkNum": 1,
+  "WebSocketAddress": ":9090",
+  "WsPath": "/ws"
+}
